@@ -30,12 +30,12 @@ galaxy_info:
     - wheezy
      
   galaxy_tags: 
-    - oracle
-    - JDK
-    - java
-    - ubuntu
-    - 16.04
-    - xenial
+  - oracle
+  - JDK
+  - java
+  - ubuntu
+  - 16.04
+  - xenial
 
 dependencies: []
   # List your role dependencies here, one per line. Be sure to remove the '[]' above,
