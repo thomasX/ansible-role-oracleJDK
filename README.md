@@ -5,7 +5,7 @@ NOTE: This is just for Ubuntu
 
 To install,
 
-    sudo ansible-galaxy install f3thomas.oracleJDK
+    sudo ansible-galaxy install thomasX.oracleJDK
 
 ## Role Variables
 
