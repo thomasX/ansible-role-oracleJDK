@@ -31,7 +31,7 @@ Including an example of how to use your role (for instance, with variables passe
         -java_version: 8
       
       roles:
-        - role: f3thomas.oracleJDK
+        - role: thomasX.oracleJDK
 
 
 ## License

@@ -1,5 +1,5 @@
 ---
-# tasks file for f3thomas.oracleJDK8
+# tasks file for thomasX.oracleJDK
       - name: Install java {{java_version}} preresequesits
         apt: name=python-software-properties
 
