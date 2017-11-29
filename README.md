@@ -11,7 +11,7 @@ To install,
 
 Variables and defaults follow.
 
-java_version  ... must be one of [6,7,8,9] 
+java_version  ... must be one of [8,9] 
 
 
 ## Dependencies
