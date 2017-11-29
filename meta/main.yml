@@ -34,7 +34,6 @@ galaxy_info:
   - JDK
   - java
   - ubuntu
-  - 16.04
   - xenial
 
 dependencies: []
